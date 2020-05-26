@@ -1,2 +1,5 @@
-## links
-- [a link](subfolder/a_link.md)
+```clojure
+(doseq [thought (think)] 
+  (println thought))
+; => nil
+```
