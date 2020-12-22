@@ -1,5 +1,5 @@
 ```clojure
-(doseq [thought (think)] 
-  (println thought))
-; => nil
+(doseq [cart (carts)] 
+  (println cart))
 ```
+[wip](./carts/wip.html)
