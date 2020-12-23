@@ -2,4 +2,4 @@
 (doseq [cart (carts)] 
   (println cart))
 ```
-[wip](./carts/wip.html)
+[![wip](./carts/wip.p8.png)](./carts/wip.html)
